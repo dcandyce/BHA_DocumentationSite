@@ -11,4 +11,4 @@ title: What happened in week 1
 ## Lectures about the history of biohacking and the importance of Bio Safety
 
 An introduction to the lab and safety rules we need to follow.
-![labcoats](https://github.com/dcandyce/dcandyce.github.io/images/lab work/labcoats.JPG)
+![labcoats](https://github.com/dcandyce/dcandyce.github.io/images/labwork/labcoats.JPG)
