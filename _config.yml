@@ -9,7 +9,7 @@ name: Candyce
 description: BioHack Academy blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![avitar]({{ site.baseurl }}images/Terrence.JPG
+avatar: https://raw.githubusercontent.com/dcandyce/dcandyce.github.io/master/images/yellow.jpg
 
 #
 # Flags below are optional
