@@ -1,14 +1,14 @@
 ---
 layout: post
-title: BHA blog post 5/2
+title: BHA first blog post
 ---
 
-# Blog post 01
+# The start of the BioHack Academy
 
-## this is my first post to test
+![The WAAG]({{ site.baseurl }}/images/WAAG.JPG)
 
-First post on my Github Jekyll page on the forth day of the BioHack Academy
+I'm very excited to be part of the 6th BHA!
+My mission for the next 10 weeks is to absorb and learn as much as i can about microbiology, how to grow and look after the organisms but also to build the lab equipment I will need to be able to continue these projects away fro the WAAG and a traditional lab.
 
-**bold**
 
-[link to google](www.google.com)
+**follow my progress, mistakes and projects on here**
