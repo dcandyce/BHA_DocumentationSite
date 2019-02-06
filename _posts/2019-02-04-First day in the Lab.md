@@ -4,7 +4,7 @@ title: First day in the Lab
 ---
 
 
-# How to prepare and grow bacteria
+#### How to prepare and grow bacteria
 
 Today  we were taught how to prepare a nutrient agar in a sterile environment and how to inoculate it with a bacteria JL.
 
@@ -34,4 +34,4 @@ To inoculate the nutrients you spread the bacteria with an inoculation loop spre
 Seal it with parafilm, making sure its labeled with _contents : date : name_
 
 
-![JL bacteria]({{site.baseurl}}images/lab%20work/JLbacterica%20plates.jpg)
+![JL bacteria]({{site.baseurl}}/images/lab%20work/JLbacterica%20plates.jpg)
