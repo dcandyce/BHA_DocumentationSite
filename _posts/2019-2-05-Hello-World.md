@@ -3,7 +3,8 @@ layout: post
 title: BHA first blog post
 ---
 
-# The start of the BioHack Academy
+
+#### The start of the BioHack Academy
 
 ![The WAAG]({{ site.baseurl }}/images/WAAG.JPG)
 

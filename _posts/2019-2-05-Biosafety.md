@@ -4,7 +4,7 @@ title: An intro to Bio Hacking and lab safety
 ---
 
 
-# Bio-Safety
+#### Bio-Safety
 
 Our second day we joined the other partner labs for lectures about the history of biohacking and the importance of Bio Safety.
 

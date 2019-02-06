@@ -4,7 +4,7 @@ title: The Sterile Hood
 ---
 
 
-# Our first piece of lab equipment
+#### Our first piece of lab equipment
 
  ![Sterilehood]({{ site.baseurl }}/images/hacking%20equipment/sterilehood2.jpg)
 
