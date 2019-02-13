@@ -13,4 +13,4 @@ Tomorrow we'll get round to doing the plating and diluting
 
 ![Temp sensor]({{site.baseurl}}images/ardunio/temp%20sensor.JPG)
 
-We also did a basic workshop in Ardunio today : a simple circuit to see temperature 
+We also did a basic workshop in Ardunio today : a simple circuit to see temperature
