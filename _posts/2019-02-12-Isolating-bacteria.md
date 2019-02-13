@@ -3,7 +3,7 @@ layout: post
 title: Isolating bacteria
 ---
 
-#### Isolating Bacteria
+#### Lactose and Yeast bacteria
 
 ![Samples to test]({{site.baseurl}}/images/lab work/Isolating bacteria1.JPG)
 
