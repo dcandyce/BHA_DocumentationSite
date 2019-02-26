@@ -13,7 +13,7 @@ I have been thinking about tweaking the current design for when i manage to make
 I followed the recipe for the Murashige Skoog (MS) media and the procedure from https://www.seed2stem.com/
 I set up an 'incubation station' which i wiped down with 70% ethanol and set up grow lights on for the weekend -  giving the tissue culture 12 hours of light (this was excluding the natural sunlight that would come through to the lab).
 
-![incubation station set up]({{site.baseurl}}//images/project work/incubationstation1.JPG)
+![incubation station set up]({{site.baseurl}}/images/project work/incubationstation1.JPG)
 
 Coming back on monday i noticed a few pieces were going a bit black along the edges.I think this may be because they burnt / had too much light, it was very sunny over the weekend.
 I had throw away 3 tubes and will have to take a few specimen out of some of the dishes to ensure contamination doesn't spread.
