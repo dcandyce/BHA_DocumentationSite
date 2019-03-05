@@ -13,7 +13,7 @@ I had previously spent some time thinking about what my incubator will be used f
 * it needs to allow light in / have grow lights (to grow the plant tissue)
 * it needs to be dark to be able to grow other bacteria and mycelium in
 * it needs to be taken apart easily to travel as i want to take it back to London with me for minimal cost.
-* and it should cost a lot to make **<--- most important**
+* and it should _not_ cost a lot to make **<--- most important**
 
  ![Incubation specs]({{ site.baseurl }}/images/hacking equipment/Incubator specs.JPG)
 
