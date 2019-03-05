@@ -23,7 +23,7 @@ I built the circuit, following the fritzing document, but haven't tested with al
  To sold the dark and light issue and the fact that it needs to be taken apart i will create a slot-together system for it all to fit in place.
  2 or 3 sides can be clear (made from 3ml polycarbonate) or replaced with ply
 
- ![Incubation model]({{ site.baseurl }}//images/hacking equipment/incubator model.jpg)
+ ![Incubation model]({{ site.baseurl }}/images/hacking equipment/incubator model.jpg)
 
  I bought the wood today to make the slotting system but have nothign to cut the slots from here in the workshop - so will have to rethink how to make the slots.
 
