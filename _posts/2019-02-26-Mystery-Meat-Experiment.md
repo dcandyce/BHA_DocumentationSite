@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PCR and Mystery Meat2
+title: PCR and Mystery Meat
 ---
 
 
@@ -12,13 +12,13 @@ Today we learned about Genetics - more like a crash course in what DNA is and ho
 
 We later did a workshop where we bought 6 different meats, from cured prosciutto to cat food, to test if it is actually the meat it says it is.
 
-**Meat we bought:
-**K** - Kroket from FEBO
-**P** - 'Pate' but actually cat food (Beef)
-**G** - 'Gehakt Galletjes' (meat balls)
-**F** - Kip Fillet (chicken)
-**S** - Frikadel from FEBO
-**H** - Ham
+**Meat we bought:**
+* **K** - Kroket from FEBO
+* **P** - 'Pate' but actually cat food (Beef flavour)
+* **G** - 'Gehakt Galletjes' (meat balls)
+* **F** - Kip Fillet (chicken)
+* **S** - Frikadel from FEBO
+* **H** - Ham
 
 ![Isolated DNA]({{ site.baseurl }}/images/lab work/IsolatinfDNA.JPG)
 
