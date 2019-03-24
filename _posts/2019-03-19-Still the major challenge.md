@@ -7,7 +7,7 @@ title: Incubator update .2
 
 ![Solder table]({{ site.baseurl }}/images/ardunio/solder table.JPG)
 
-I had hopped by the end of this week that my incubator would be finished, but the next step of soldering the components onto a prototype board is really holding me back!
+I had hoped by the end of this week that my incubator would be finished, but the next step of soldering the components onto a prototype board is really holding me back!
 I was recommended a comic [about soldering](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf), which made me feel less worried about how to do it properly.
 
 One worry is that I dont know where to start with transferring the components from a connected bread board over onto the the prototype board and havign to make the right connections.
