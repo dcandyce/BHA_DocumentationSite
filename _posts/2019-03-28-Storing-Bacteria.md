@@ -1,9 +1,7 @@
 ---
 layout: post
-title: PTC update .2
+title: Storing bacteria short term or long term
 ---
-
-#### Storing bacteria short term or long term
 
 
 ![freezing bacteria]({{ site.baseurl }}/images/lab work/freezing bacteria.jpg)
