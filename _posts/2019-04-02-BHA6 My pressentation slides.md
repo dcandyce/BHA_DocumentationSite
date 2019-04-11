@@ -1,9 +1,18 @@
 ---
 layout: post
-title: BioHack Academy my presentation slides
+title: BioHack Academy : my presentation slides
 ---
 
-![presentation slides]({{ site.baseurl }}/images/final presentation pdf.jpg)
+![presentation slides]({{ site.baseurl }}/images/final presentaion slides/final presentation1.jpg)
+
+![presentation slides]({{ site.baseurl }}/images/final presentaion slides/final presentation2.jpg)
+
+![presentation slides]({{ site.baseurl }}/images/final presentaion slides/final presentation3.jpg)
+
+![presentation slides]({{ site.baseurl }}/images/final presentaion slides/final presentation4.jpg)
+
+![presentation slides]({{ site.baseurl }}/images/final presentaion slides/final presentation5.jpg)
+
 
 _Notes made for the presentation_
 
