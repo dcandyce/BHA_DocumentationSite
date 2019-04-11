@@ -1,8 +1,7 @@
 ---
 layout: post
-title: BioHack Academy : my presentation slides
+title: BioHack Academy:my presentation slides
 ---
-
 
 ![presentation slides]({{ site.baseurl }}/images/final presentaion slides/final presentation1.jpg)
 
