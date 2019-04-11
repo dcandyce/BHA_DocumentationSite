@@ -11,7 +11,7 @@ title: BioHack Academy : my presentation slides
 
 ![presentation slides]({{ site.baseurl }}/images/final presentaion slides/final presentation4.jpg)
 
-![presentation slides]({{ site.baseurl }}/images/final presentaion slides/final presentation5.jpg)
+![presentation slides]({{ site.baseurl }}/images/final presentaion slides/Screenshot 2019-04-11 at 16.14.14.png)
 
 
 _Notes made for the presentation_
